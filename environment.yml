@@ -11,5 +11,5 @@ dependencies:
     - ipymaterialui==0.1.4
     - jupyter-drawing-pad==0.1.6 
     - numpy==1.19.2 
-    - packaging"
+    - packaging
 
