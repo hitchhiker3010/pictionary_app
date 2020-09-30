@@ -1,0 +1,16 @@
+channels: 
+  - fastai
+  - conda-forge
+  - anaconda
+dependencies: 
+  - fastai>=2
+  - voila
+  - widgetsnbextension
+  - ipywidgets==7.5.1
+  - pillow<7
+  - pip 
+    - ipymaterialui==0.1.4
+    - jupyter-drawing-pad==0.1.6 
+    - numpy==1.19.2 
+    - packaging"
+
