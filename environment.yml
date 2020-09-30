@@ -1,9 +1,7 @@
 channels: 
-  - fastai
   - conda-forge
   - anaconda
 dependencies: 
-  - fastai>=2
   - voila
   - widgetsnbextension
   - ipywidgets==7.5.1
