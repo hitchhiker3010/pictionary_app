@@ -1,2 +1,4 @@
+
+
 # pictionary_app
-Pictionary App can be run at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hitchhiker3010/pictionary_app/drawpad?urlpath=%2Fvoila%2Frender%2Fdrawpad-colab.ipynb)
+Pictionary App can be run at [![spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/Sukesh/quickdraw)
